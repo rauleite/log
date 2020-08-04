@@ -1,10 +1,10 @@
 {
   "name": "@rauljs/log",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "author": "Raul Leite",
   "license": "MIT",
   "dependencies": {
-    "@rauljs/utils": "^0.0.3"
+    "@rauljs/utils": "^0.0.4"
   }
 }
