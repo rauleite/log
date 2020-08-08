@@ -1,8 +1,8 @@
 {
-  "name": "@rauljs/log",
-  "version": "0.0.11",
+  "name": "@luar/log",
+  "version": "0.0.1",
   "main": "index.js",
-  "private": "true",
+  "private": false,
   "author": "Raul Leite",
   "license": "MIT",
   "dependencies": {}
